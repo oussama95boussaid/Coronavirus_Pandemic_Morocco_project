@@ -1,401 +1,401 @@
-,Deaths,Cases,dates,cities
-0,2,48,01.1.21,Agadir-Ida -Ou-Tanane
-1,,37,01.1.21,Inezgane- Ait Melloul
-2,,35,01.1.21,Tiznit
-3,,16,01.1.21,Chtouka- Ait Baha
-4,2,13,01.1.21,Taroudannt
-5,2,64,02.1.21,Agadir-Ida -Ou-Tanane
-6,,22,02.1.21,Inezgane- Ait Melloul
-7,,11,02.1.21,Taroudannt
-8,,10,02.1.21,Chtouka- Ait Baha
-9,1,9,02.1.21,Tiznit
-10,,4,02.1.21,Tata
-11,1,66,03.1.21,Agadir-Ida -Ou-Tanane
-12,,32,03.1.21,Tata
-13,,12,03.1.21,Tiznit
-14,,11,03.1.21,Inezgane- Ait Melloul
-15,,7,03.1.21,Taroudannt
-16,,1,03.1.21,Chtouka- Ait Baha
-17,1,56,04.1.21,Agadir-Ida -Ou-Tanane
-18,,18,04.1.21,Inezgane- Ait Melloul
-19,1,13,04.1.21,Tiznit
-20,,10,04.1.21,Taroudannt
-21,,5,04.1.21,Tata
-22,,44,05.1.21,Agadir-Ida -Ou-Tanane
-23,,17,05.1.21,Taroudannt
-24,,13,05.1.21,Chtouka- Ait Baha
-25,,10,05.1.21,Inezgane- Ait Melloul
-26,2,7,05.1.21,Tiznit
-27,,1,05.1.21,Tata
-28,,62,06.1.21,Agadir-Ida -Ou-Tanane
-29,,49,07.1.21,Agadir-Ida -Ou-Tanane
-30,,31,07.1.21,Inezgane- Ait Melloul
-31,,7,07.1.21,Chtouka- Ait Baha
-32,,5,07.1.21,Tiznit
-33,4.0,51.0,08.1.21,Agadir-Ida -Ou-Tanane
-34,,17.0,08.1.21,Inezgane- Ait Melloul
-35,,15.0,08.1.21,Taroudannt
-36,,14.0,08.1.21,Tiznit
-37,,8.0,08.1.21,Chtouka- Ait Baha
-38,,,08.1.21,Tata
-39,4.0,35,09.1.21,Agadir-Ida -Ou-Tanane
-40,,15,09.1.21,Tiznit
-41,,12,09.1.21,Taroudannt
-42,,12,09.1.21,Inezgane- Ait Melloul
-43,,10,09.1.21,Tata
-44,,4,09.1.21,Chtouka- Ait Baha
-45,1,40,10.1.21,Agadir-Ida -Ou-Tanane
-46,1,21,10.1.21,Inezgane- Ait Melloul
-47,3,17,10.1.21,Taroudannt
-48,,1,10.1.21,Tiznit
-49,,34,11.1.21,Agadir-Ida -Ou-Tanane
-50,,10,11.1.21,Inezgane- Ait Melloul
-51,1,9,11.1.21,Tiznit
-52,,3,11.1.21,Taroudannt
-53,,1,11.1.21,Chtouka- Ait Baha
-54,,33,13.1.21,Agadir-Ida -Ou-Tanane
-55,,14,13.1.21,Inezgane- Ait Melloul
-56,,11,13.1.21,Chtouka- Ait Baha
-57,3,36,14.1.21,Agadir-Ida -Ou-Tanane
-58,,20,14.1.21,Inezgane- Ait Melloul
-59,,14,14.1.21,Taroudannt
-60,1,11,14.1.21,Tiznit
-61,,9,14.1.21,Tata
-62,,5,14.1.21,Chtouka- Ait Baha
-63,,50,15.1.21,Agadir-Ida -Ou-Tanane
-64,,15,15.1.21,Inezgane- Ait Melloul
-65,,13,15.1.21,Chtouka- Ait Baha
-66,,8,15.1.21,Taroudannt
-67,,7,15.1.21,Tata
-68,1,3,15.1.21,Tiznit
-69,1,38,16.1.21,Agadir-Ida -Ou-Tanane
-70,,16,16.1.21,Inezgane- Ait Melloul
-71,1,9,16.1.21,Tiznit
-72,,45,17.1.21,Agadir-Ida -Ou-Tanane
-73,,12,17.1.21,Inezgane- Ait Melloul
-74,,5,17.1.21,Taroudannt
-75,,4,17.1.21,Tiznit
-76,,2,17.1.21,Chtouka- Ait Baha
-77,,27,18.1.21,Agadir-Ida -Ou-Tanane
-78,4,10,18.1.21,Taroudannt
-79,,7,18.1.21,Inezgane- Ait Melloul
-80,1,2,18.1.21,Tata
-81,,1,18.1.21,Tiznit
-82,,24,19.1.21,Agadir-Ida -Ou-Tanane
-83,,23,19.1.21,Tiznit
-84,2,10,19.1.21,Inezgane- Ait Melloul
-85,,49,20.1.21,Agadir-Ida -Ou-Tanane
-86,,10,20.1.21,Inezgane- Ait Melloul
-87,,7,20.1.21,Taroudannt
-88,,6,20.1.21,Chtouka- Ait Baha
-89,,5,20.1.21,Tiznit
-90,,1,20.1.21,Tata
-91,1,47,21.1.21,Agadir-Ida -Ou-Tanane
-92,1,16,21.1.21,Inezgane- Ait Melloul
-93,,10,21.1.21,Tiznit
-94,,45,22.1.21,Agadir-Ida -Ou-Tanane
-95,1,39,23.1.21,Agadir-Ida -Ou-Tanane
-96,1,29,23.1.21,Tiznit
-97,,8,23.1.21,Inezgane- Ait Melloul
-98,,5,23.1.21,Tata
-99,,5,23.1.21,Taroudannt
-100,,4,23.1.21,Chtouka- Ait Baha
-101,,30,25.1.21,Agadir-Ida -Ou-Tanane
-102,,14,25.1.21,Inezgane- Ait Melloul
-103,,7,25.1.21,Tiznit
-104,,1,25.1.21,Tata
-105,,23,26.1.21,Agadir-Ida -Ou-Tanane
-106,,6,26.1.21,Inezgane- Ait Melloul
-107,,5,26.1.21,Tiznit
-108,,4,26.1.21,Chtouka- Ait Baha
-109,,2,26.1.21,Taroudannt
-110,?????? ??? ?????,28,28.1.21,Agadir-Ida -Ou-Tanane
-111,?????? ??? ????,8,28.1.21,Inezgane- Ait Melloul
-112,,26,29.1.21,Agadir-Ida -Ou-Tanane
-113,,22,29.1.21,Inezgane- Ait Melloul
-114,1,5,29.1.21,Tiznit
-115,,22,30.1.21,Agadir-Ida -Ou-Tanane
-116,,17,30.1.21,Inezgane- Ait Melloul
-117,,3,30.1.21,Chtouka- Ait Baha
-118,,1,30.1.21,Taroudannt
-119,,32,31.1.21,Agadir-Ida -Ou-Tanane
-120,1,6,31.1.21,Tiznit
-121,,4,31.1.21,Inezgane- Ait Melloul
-122,,2,31.1.21,Taroudannt
-123,,12,01.2.21,Agadir-Ida -Ou-Tanane
-124,,5,01.2.21,Inezgane- Ait Melloul
-125,,2,01.2.21,Taroudannt
-126,,2,01.2.21,Chtouka- Ait Baha
-127,,1,01.2.21,Tiznit
-128,,34,03.2.21,Agadir-Ida -Ou-Tanane
-129,,9,03.2.21,Chtouka- Ait Baha
-130,1,7,03.2.21,Inezgane- Ait Melloul
-131,?????? ??? ?????,34,05.2.21,Agadir-Ida -Ou-Tanane
-132,?????? ??? ????,9,05.2.21,Inezgane- Ait Melloul
-133,?????? ??? ????,8,05.2.21,Chtouka- Ait Baha
-134,????????,5,05.2.21,Taroudannt
-135,?????,4,05.2.21,Tiznit
-136,,15,06.2.21,Agadir-Ida -Ou-Tanane
-137,,6,06.2.21,Tiznit
-138,,15,07.2.21,Agadir-Ida -Ou-Tanane
-139,,10,07.2.21,Inezgane- Ait Melloul
-140,,4,07.2.21,Tiznit
-141,,2,07.2.21,Taroudannt
-142,,1,07.2.21,Tata
-143,,6,08.2.21,Agadir-Ida -Ou-Tanane
-144,1,2,08.2.21,Tiznit
-145,,2,08.2.21,Inezgane- Ait Melloul
-146,1,0,08.2.21,Taroudannt
-147,,15,09.2.21,Agadir-Ida -Ou-Tanane
-148,,4,09.2.21,Tiznit
-149,,24,10.2.21,Agadir-Ida -Ou-Tanane
-150,,8,10.2.21,Inezgane- Ait Melloul
-151,,8,10.2.21,Taroudannt
-152,,2,10.2.21,Chtouka- Ait Baha
-153,,17,12.2.21,Agadir-Ida -Ou-Tanane
-154,,5,12.2.21,Inezgane- Ait Melloul
-155,1,5,12.2.21,Tiznit
-156,,1,12.2.21,Chtouka- Ait Baha
-157,,1,12.2.21,Tata
-158,?????? ??? ?????,27 1,14.2.21,Agadir-Ida -Ou-Tanane
-159,?????? ??? ????,3,14.2.21,Inezgane- Ait Melloul
-160,????????,1 1,14.2.21,Taroudannt
-161,,18,17.2.21,Agadir-Ida -Ou-Tanane
-162,,9,20.2.21,Agadir-Ida -Ou-Tanane
-163,1,7,20.2.21,Tiznit
-164,,6,20.2.21,Inezgane- Ait Melloul
-165,?????? ??? ?????,7,21.2.21,Agadir-Ida -Ou-Tanane
-166,?????? ??? ????,4,21.2.21,Inezgane- Ait Melloul
-167,?????? ??? ????,1,21.2.21,Chtouka- Ait Baha
-168,????????,0 1,21.2.21,Taroudannt
-169,?????,11,24.2.21,Tiznit
-170,?????? ??? ?????,7,24.2.21,Agadir-Ida -Ou-Tanane
-171,?????? ??? ?????,7,26.2.21,Agadir-Ida -Ou-Tanane
-172,?????,3,26.2.21,Tiznit
-173,,10,28.2.21,Agadir-Ida -Ou-Tanane
-174,,3,28.2.21,Inezgane- Ait Melloul
-175,,1,28.2.21,Chtouka- Ait Baha
-176,,4,01.3.21,Agadir-Ida -Ou-Tanane
-177,,1,01.3.21,Tiznit
-178,?????,5,04.3.21,Tiznit
-179,?????? ??? ?????,1,04.3.21,Agadir-Ida -Ou-Tanane
-180,,4,07.3.21,Inezgane- Ait Melloul
-181,,3,07.3.21,Agadir-Ida -Ou-Tanane
-182,,3,07.3.21,Tiznit
-183,?????? ??? ?????,12 1,10.3.21,Agadir-Ida -Ou-Tanane
-184,?????? ??? ????,8,10.3.21,Inezgane- Ait Melloul
-185,????????,4,10.3.21,Taroudannt
-186,?????,0 1,10.3.21,Tiznit
-187,?????? ??? ????,9,11.3.21,Inezgane- Ait Melloul
-188,?????? ??? ?????,8,11.3.21,Agadir-Ida -Ou-Tanane
-189,????????,1,11.3.21,Taroudannt
-190,?????? ??? ????,1,11.3.21,Chtouka- Ait Baha
-191,?????? ??? ?????,7,12.3.21,Agadir-Ida -Ou-Tanane
-192,,8,13.3.21,Agadir-Ida -Ou-Tanane
-193,?????? ??? ?????,4,14.3.21,Agadir-Ida -Ou-Tanane
-194,?????? ??? ????,3,14.3.21,Inezgane- Ait Melloul
-195,,4,15.3.21,Agadir-Ida -Ou-Tanane
-196,,2,15.3.21,Chtouka- Ait Baha
-197,?????? ??? ?????,6,17.3.21,Agadir-Ida -Ou-Tanane
-198,,2,18.3.21,Agadir-Ida -Ou-Tanane
-199,?????? ??? ?????,4,20.3.21,Agadir-Ida -Ou-Tanane
-200,?????? ??? ????,4,20.3.21,Inezgane- Ait Melloul
-201,?????,4,20.3.21,Tiznit
-202,?????? ??? ?????,6,21.3.21,Agadir-Ida -Ou-Tanane
-203,?????,2,21.3.21,Tiznit
-204,????????,1,21.3.21,Taroudannt
-205,,4,23.3.21,Tiznit
-206,?????? ??? ????,2,24.3.21,Inezgane- Ait Melloul
-207,?????,7,24.3.21,Tiznit
-208,?????? ??? ?????,3,24.3.21,Agadir-Ida -Ou-Tanane
-209,?????? ??? ????,2,24.3.21,Chtouka- Ait Baha
-210,,6,25.3.21,Tiznit
-211,,5,25.3.21,Agadir-Ida -Ou-Tanane
-212,,5,31.3.21,Agadir-Ida -Ou-Tanane
-213,,4,31.3.21,Tata
-214,,3,31.3.21,Tiznit
-215,,2,31.3.21,Inezgane- Ait Melloul
-216,0,11,01.4.21,Agadir-Ida -Ou-Tanane
-217,0,11,01.4.21,Inezgane- Ait Melloul
-218,0,4,01.4.21,Chtouka- Ait Baha
-219,0,2,01.4.21,Taroudannt
-220,0,2,01.4.21,Tiznit
-221,,5,03.4.21,Chtouka- Ait Baha
-222,1,4,03.4.21,Agadir-Ida -Ou-Tanane
-223,,2,03.4.21,Tiznit
-224,,7,06.4.21,Tiznit
-225,?????? ??? ?????,10,08.4.21,Agadir-Ida -Ou-Tanane
-226,?????,3,08.4.21,Tiznit
-227,?????? ??? ????,1,08.4.21,Inezgane- Ait Melloul
-228,,12,09.4.21,Inezgane- Ait Melloul
-229,,7,09.4.21,Agadir-Ida -Ou-Tanane
-230,,1,09.4.21,Taroudannt
-231,,1,09.4.21,Chtouka- Ait Baha
-232,,1,09.4.21,Tiznit
-233,1,10,10.4.21,Inezgane- Ait Melloul
-234,,8,10.4.21,Agadir-Ida -Ou-Tanane
-235,,1,10.4.21,Taroudannt
-236,,1,10.4.21,Tiznit
-237,,2,12.4.21,Agadir-Ida -Ou-Tanane
-238,,1,12.4.21,Inezgane- Ait Melloul
-239,,1,12.4.21,Chtouka- Ait Baha
-240,?????? ??? ?????,13,14.4.21,Agadir-Ida -Ou-Tanane
-241,????????,6,14.4.21,Taroudannt
-242,?????? ??? ????,3,14.4.21,Inezgane- Ait Melloul
-243,?????? ??? ????,1,14.4.21,Chtouka- Ait Baha
-244,?????? ??? ?????,11,15.4.21,Agadir-Ida -Ou-Tanane
-245,?????? ??? ????,6,15.4.21,Inezgane- Ait Melloul
-246,?????? ??? ????,4,15.4.21,Chtouka- Ait Baha
-247,?????,4,15.4.21,Tiznit
-248,????????,1,15.4.21,Taroudannt
-249,,16,16.4.21,Agadir-Ida -Ou-Tanane
-250,,4,16.4.21,Inezgane- Ait Melloul
-251,,2,16.4.21,Taroudannt
-252,,1,16.4.21,Chtouka- Ait Baha
-253,,7,17.4.21,Agadir-Ida -Ou-Tanane
-254,,3,17.4.21,Chtouka- Ait Baha
-255,,2,17.4.21,Tiznit
-256,2,1,17.4.21,Inezgane- Ait Melloul
-257,,8,21.4.21,Inezgane- Ait Melloul
-258,,4,21.4.21,Agadir-Ida -Ou-Tanane
-259,,3,21.4.21,Tiznit
-260,,2,21.4.21,Taroudannt
-261,,7,22.4.21,Inezgane- Ait Melloul
-262,,5,22.4.21,Chtouka- Ait Baha
-263,,4,22.4.21,Agadir-Ida -Ou-Tanane
-264,,2,22.4.21,Taroudannt
-265,1,1,22.4.21,Tiznit
-266,,7,23.4.21,Agadir-Ida -Ou-Tanane
-267,,4,23.4.21,Inezgane- Ait Melloul
-268,,10,24.4.21,Agadir-Ida -Ou-Tanane
-269,,4,24.4.21,Inezgane- Ait Melloul
-270,1,3,24.4.21,Tiznit
-271,,9,28.4.21,Agadir-Ida -Ou-Tanane
-272,,9,28.4.21,Inezgane- Ait Melloul
-273,1,2,28.4.21,Taroudannt
-274,,1,28.4.21,Tiznit
-275,,16,29.4.21,Inezgane- Ait Melloul
-276,,3,29.4.21,Taroudannt
-277,,1,29.4.21,Agadir-Ida -Ou-Tanane
-278,,4,30.4.21,Taroudannt
-279,,3,30.4.21,Agadir-Ida -Ou-Tanane
-280,,1,30.4.21,Inezgane- Ait Melloul
-281,,7,01.5.21,Agadir-Ida -Ou-Tanane
-282,,3,01.5.21,Inezgane- Ait Melloul
-283,,1,01.5.21,Tiznit
-284,,10,04.5.21,Inezgane- Ait Melloul
-285,,4,04.5.21,Tiznit
-286,,2,04.5.21,Taroudannt
-287,,2,04.5.21,Agadir-Ida -Ou-Tanane
-288,,2,04.5.21,Chtouka- Ait Baha
-289,,16,05.5.21,Agadir-Ida -Ou-Tanane
-290,,1,05.5.21,Chtouka- Ait Baha
-291,,8,06.5.21,Agadir-Ida -Ou-Tanane
-292,,3,06.5.21,Inezgane- Ait Melloul
-293,,1,06.5.21,Tiznit
-294,,1,06.5.21,Chtouka- Ait Baha
-295,,14,08.5.21,Agadir-Ida -Ou-Tanane
-296,,5,08.5.21,Tiznit
-297,,4,08.5.21,Inezgane- Ait Melloul
-298,,13,18.5.21,Agadir-Ida -Ou-Tanane
-299,,3,18.5.21,Tiznit
-300,,1,18.5.21,Inezgane- Ait Melloul
-301,,14,19.5.21,Agadir-Ida -Ou-Tanane
-302,,6,19.5.21,Inezgane- Ait Melloul
-303,,5,19.5.21,Tiznit
-304,,2,19.5.21,Taroudannt
-305,,2,19.5.21,Chtouka- Ait Baha
-306,1,10,20.5.21,Agadir-Ida -Ou-Tanane
-307,,10,20.5.21,Inezgane- Ait Melloul
-308,,9,20.5.21,Tiznit
-309,,1,20.5.21,Taroudannt
-310,,1,20.5.21,Chtouka- Ait Baha
-311,1,25,21.5.21,Agadir-Ida -Ou-Tanane
-312,,1,21.5.21,Inezgane- Ait Melloul
-313,,1,21.5.21,Taroudannt
-314,,1,21.5.21,Tiznit
-315,,1,21.5.21,Chtouka- Ait Baha
-316,,20,22.5.21,Agadir-Ida -Ou-Tanane
-317,,1,22.5.21,Inezgane- Ait Melloul
-318,,2,25.5.21,Inezgane- Ait Melloul
-319,,1,25.5.21,Agadir-Ida -Ou-Tanane
-320,1,0,25.5.21,Tiznit
-321,,11,26.5.21,Inezgane- Ait Melloul
-322,,8,26.5.21,Agadir-Ida -Ou-Tanane
-323,,8,26.5.21,Chtouka- Ait Baha
-324,,2,26.5.21,Taroudannt
-325,,18,27.5.21,Agadir-Ida -Ou-Tanane
-326,,6,27.5.21,Inezgane- Ait Melloul
-327,,2,27.5.21,Chtouka- Ait Baha
-328,,13,28.5.21,Agadir-Ida -Ou-Tanane
-329,,6,28.5.21,Inezgane- Ait Melloul
-330,,15,29.5.21,Agadir-Ida -Ou-Tanane
-331,,7,29.5.21,Inezgane- Ait Melloul
-332,,3,29.5.21,Taroudannt
-333,,3,29.5.21,Tiznit
-334,,2,29.5.21,Chtouka- Ait Baha
-335,,6,01.6.21,Agadir-Ida -Ou-Tanane
-336,,6,01.6.21,Inezgane- Ait Melloul
-337,,1,01.6.21,Chtouka- Ait Baha
-338,2,17,02.6.21,Agadir-Ida -Ou-Tanane
-339,,13,02.6.21,Inezgane- Ait Melloul
-340,,5,02.6.21,Taroudannt
-341,,1,02.6.21,Chtouka- Ait Baha
-342,,9,06.6.21,Agadir-Ida -Ou-Tanane
-343,,3,06.6.21,Inezgane- Ait Melloul
-344,,23,09.6.21,Agadir-Ida -Ou-Tanane
-345,,6,09.6.21,Inezgane- Ait Melloul
-346,,2,09.6.21,Tiznit
-347,,1,09.6.21,Chtouka- Ait Baha
-348,,12,10.6.21,Inezgane- Ait Melloul
-349,,10,10.6.21,Agadir-Ida -Ou-Tanane
-350,,1,10.6.21,Taroudannt
-351,,1,10.6.21,Tiznit
-352,,1,10.6.21,Chtouka- Ait Baha
-353,,1,10.6.21,Tata
-354,1,27,12.6.21,Agadir-Ida -Ou-Tanane
-355,,22,12.6.21,Inezgane- Ait Melloul
-356,,1,12.6.21,Tiznit
-357,,1,12.6.21,Chtouka- Ait Baha
-358,,15,13.6.21,Agadir-Ida -Ou-Tanane
-359,,6,13.6.21,Inezgane- Ait Melloul
-360,,3,13.6.21,Tiznit
-361,,1,13.6.21,Taroudannt
-362,,19,17.6.21,Inezgane- Ait Melloul
-363,,17,17.6.21,Agadir-Ida -Ou-Tanane
-364,,4,17.6.21,Tiznit
-365,,15,20.6.21,Agadir-Ida -Ou-Tanane
-366,,10,20.6.21,Inezgane- Ait Melloul
-367,,1,20.6.21,Chtouka- Ait Baha
-368,1,7,22.6.21,Inezgane- Ait Melloul
-369,,5,22.6.21,Tiznit
-370,,3,22.6.21,Agadir-Ida -Ou-Tanane
-371,,2,22.6.21,Chtouka- Ait Baha
-372,,37,23.6.21,Agadir-Ida -Ou-Tanane
-373,1,4,23.6.21,Taroudannt
-374,1,3,23.6.21,Inezgane- Ait Melloul
-375,,2,23.6.21,Chtouka- Ait Baha
-376,,1,23.6.21,Tiznit
-377,,1,23.6.21,Tata
-378,,18,26.6.21,Agadir-Ida -Ou-Tanane
-379,,12,26.6.21,Inezgane- Ait Melloul
-380,,6,26.6.21,Chtouka- Ait Baha
-381,,2,26.6.21,Taroudannt
-382,,2,26.6.21,Tiznit
-383,,26,27.6.21,Agadir-Ida -Ou-Tanane
-384,,15,27.6.21,Inezgane- Ait Melloul
-385,,1,27.6.21,Taroudannt
-386,,1,27.6.21,Chtouka- Ait Baha
-387,,15,28.6.21,Agadir-Ida -Ou-Tanane
-388,,3,28.6.21,Chtouka- Ait Baha
-389,,2,28.6.21,Inezgane- Ait Melloul
-390,,2,28.6.21,Tiznit
-391,1,19,29.6.21,Inezgane- Ait Melloul
-392,2,10,29.6.21,Agadir-Ida -Ou-Tanane
-393,,8,29.6.21,Chtouka- Ait Baha
-394,,3,29.6.21,Tiznit
-395,,1,29.6.21,Taroudannt
-396,,31,30.6.21,Agadir-Ida -Ou-Tanane
-397,,26,30.6.21,Inezgane- Ait Melloul
-398,,4,30.6.21,Tiznit
-399,,2,30.6.21,Chtouka- Ait Baha
+Deaths,Cases,dates,cities
+2,48,01.1.21,Agadir-Ida -Ou-Tanane
+,37,01.1.21,Inezgane- Ait Melloul
+,35,01.1.21,Tiznit
+,16,01.1.21,Chtouka- Ait Baha
+2,13,01.1.21,Taroudannt
+2,64,02.1.21,Agadir-Ida -Ou-Tanane
+,22,02.1.21,Inezgane- Ait Melloul
+,11,02.1.21,Taroudannt
+,10,02.1.21,Chtouka- Ait Baha
+1,9,02.1.21,Tiznit
+,4,02.1.21,Tata
+1,66,03.1.21,Agadir-Ida -Ou-Tanane
+,32,03.1.21,Tata
+,12,03.1.21,Tiznit
+,11,03.1.21,Inezgane- Ait Melloul
+,7,03.1.21,Taroudannt
+,1,03.1.21,Chtouka- Ait Baha
+1,56,04.1.21,Agadir-Ida -Ou-Tanane
+,18,04.1.21,Inezgane- Ait Melloul
+1,13,04.1.21,Tiznit
+,10,04.1.21,Taroudannt
+,5,04.1.21,Tata
+,44,05.1.21,Agadir-Ida -Ou-Tanane
+,17,05.1.21,Taroudannt
+,13,05.1.21,Chtouka- Ait Baha
+,10,05.1.21,Inezgane- Ait Melloul
+2,7,05.1.21,Tiznit
+,1,05.1.21,Tata
+,62,06.1.21,Agadir-Ida -Ou-Tanane
+,49,07.1.21,Agadir-Ida -Ou-Tanane
+,31,07.1.21,Inezgane- Ait Melloul
+,7,07.1.21,Chtouka- Ait Baha
+,5,07.1.21,Tiznit
+4.0,51.0,08.1.21,Agadir-Ida -Ou-Tanane
+,17.0,08.1.21,Inezgane- Ait Melloul
+,15.0,08.1.21,Taroudannt
+,14.0,08.1.21,Tiznit
+,8.0,08.1.21,Chtouka- Ait Baha
+,,08.1.21,Tata
+4.0,35,09.1.21,Agadir-Ida -Ou-Tanane
+,15,09.1.21,Tiznit
+,12,09.1.21,Taroudannt
+,12,09.1.21,Inezgane- Ait Melloul
+,10,09.1.21,Tata
+,4,09.1.21,Chtouka- Ait Baha
+1,40,10.1.21,Agadir-Ida -Ou-Tanane
+1,21,10.1.21,Inezgane- Ait Melloul
+3,17,10.1.21,Taroudannt
+,1,10.1.21,Tiznit
+,34,11.1.21,Agadir-Ida -Ou-Tanane
+,10,11.1.21,Inezgane- Ait Melloul
+1,9,11.1.21,Tiznit
+,3,11.1.21,Taroudannt
+,1,11.1.21,Chtouka- Ait Baha
+,33,13.1.21,Agadir-Ida -Ou-Tanane
+,14,13.1.21,Inezgane- Ait Melloul
+,11,13.1.21,Chtouka- Ait Baha
+3,36,14.1.21,Agadir-Ida -Ou-Tanane
+,20,14.1.21,Inezgane- Ait Melloul
+,14,14.1.21,Taroudannt
+1,11,14.1.21,Tiznit
+,9,14.1.21,Tata
+,5,14.1.21,Chtouka- Ait Baha
+,50,15.1.21,Agadir-Ida -Ou-Tanane
+,15,15.1.21,Inezgane- Ait Melloul
+,13,15.1.21,Chtouka- Ait Baha
+,8,15.1.21,Taroudannt
+,7,15.1.21,Tata
+1,3,15.1.21,Tiznit
+1,38,16.1.21,Agadir-Ida -Ou-Tanane
+,16,16.1.21,Inezgane- Ait Melloul
+1,9,16.1.21,Tiznit
+,45,17.1.21,Agadir-Ida -Ou-Tanane
+,12,17.1.21,Inezgane- Ait Melloul
+,5,17.1.21,Taroudannt
+,4,17.1.21,Tiznit
+,2,17.1.21,Chtouka- Ait Baha
+,27,18.1.21,Agadir-Ida -Ou-Tanane
+4,10,18.1.21,Taroudannt
+,7,18.1.21,Inezgane- Ait Melloul
+1,2,18.1.21,Tata
+,1,18.1.21,Tiznit
+,24,19.1.21,Agadir-Ida -Ou-Tanane
+,23,19.1.21,Tiznit
+2,10,19.1.21,Inezgane- Ait Melloul
+,49,20.1.21,Agadir-Ida -Ou-Tanane
+,10,20.1.21,Inezgane- Ait Melloul
+,7,20.1.21,Taroudannt
+,6,20.1.21,Chtouka- Ait Baha
+,5,20.1.21,Tiznit
+,1,20.1.21,Tata
+1,47,21.1.21,Agadir-Ida -Ou-Tanane
+1,16,21.1.21,Inezgane- Ait Melloul
+,10,21.1.21,Tiznit
+,45,22.1.21,Agadir-Ida -Ou-Tanane
+1,39,23.1.21,Agadir-Ida -Ou-Tanane
+1,29,23.1.21,Tiznit
+,8,23.1.21,Inezgane- Ait Melloul
+,5,23.1.21,Tata
+,5,23.1.21,Taroudannt
+,4,23.1.21,Chtouka- Ait Baha
+,30,25.1.21,Agadir-Ida -Ou-Tanane
+,14,25.1.21,Inezgane- Ait Melloul
+,7,25.1.21,Tiznit
+,1,25.1.21,Tata
+,23,26.1.21,Agadir-Ida -Ou-Tanane
+,6,26.1.21,Inezgane- Ait Melloul
+,5,26.1.21,Tiznit
+,4,26.1.21,Chtouka- Ait Baha
+,2,26.1.21,Taroudannt
+?????? ??? ?????,28,28.1.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,8,28.1.21,Inezgane- Ait Melloul
+,26,29.1.21,Agadir-Ida -Ou-Tanane
+,22,29.1.21,Inezgane- Ait Melloul
+1,5,29.1.21,Tiznit
+,22,30.1.21,Agadir-Ida -Ou-Tanane
+,17,30.1.21,Inezgane- Ait Melloul
+,3,30.1.21,Chtouka- Ait Baha
+,1,30.1.21,Taroudannt
+,32,31.1.21,Agadir-Ida -Ou-Tanane
+1,6,31.1.21,Tiznit
+,4,31.1.21,Inezgane- Ait Melloul
+,2,31.1.21,Taroudannt
+,12,01.2.21,Agadir-Ida -Ou-Tanane
+,5,01.2.21,Inezgane- Ait Melloul
+,2,01.2.21,Taroudannt
+,2,01.2.21,Chtouka- Ait Baha
+,1,01.2.21,Tiznit
+,34,03.2.21,Agadir-Ida -Ou-Tanane
+,9,03.2.21,Chtouka- Ait Baha
+1,7,03.2.21,Inezgane- Ait Melloul
+?????? ??? ?????,34,05.2.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,9,05.2.21,Inezgane- Ait Melloul
+?????? ??? ????,8,05.2.21,Chtouka- Ait Baha
+????????,5,05.2.21,Taroudannt
+?????,4,05.2.21,Tiznit
+,15,06.2.21,Agadir-Ida -Ou-Tanane
+,6,06.2.21,Tiznit
+,15,07.2.21,Agadir-Ida -Ou-Tanane
+,10,07.2.21,Inezgane- Ait Melloul
+,4,07.2.21,Tiznit
+,2,07.2.21,Taroudannt
+,1,07.2.21,Tata
+,6,08.2.21,Agadir-Ida -Ou-Tanane
+1,2,08.2.21,Tiznit
+,2,08.2.21,Inezgane- Ait Melloul
+1,0,08.2.21,Taroudannt
+,15,09.2.21,Agadir-Ida -Ou-Tanane
+,4,09.2.21,Tiznit
+,24,10.2.21,Agadir-Ida -Ou-Tanane
+,8,10.2.21,Inezgane- Ait Melloul
+,8,10.2.21,Taroudannt
+,2,10.2.21,Chtouka- Ait Baha
+,17,12.2.21,Agadir-Ida -Ou-Tanane
+,5,12.2.21,Inezgane- Ait Melloul
+1,5,12.2.21,Tiznit
+,1,12.2.21,Chtouka- Ait Baha
+,1,12.2.21,Tata
+?????? ??? ?????,27 1,14.2.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,3,14.2.21,Inezgane- Ait Melloul
+????????,1 1,14.2.21,Taroudannt
+,18,17.2.21,Agadir-Ida -Ou-Tanane
+,9,20.2.21,Agadir-Ida -Ou-Tanane
+1,7,20.2.21,Tiznit
+,6,20.2.21,Inezgane- Ait Melloul
+?????? ??? ?????,7,21.2.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,4,21.2.21,Inezgane- Ait Melloul
+?????? ??? ????,1,21.2.21,Chtouka- Ait Baha
+????????,0 1,21.2.21,Taroudannt
+?????,11,24.2.21,Tiznit
+?????? ??? ?????,7,24.2.21,Agadir-Ida -Ou-Tanane
+?????? ??? ?????,7,26.2.21,Agadir-Ida -Ou-Tanane
+?????,3,26.2.21,Tiznit
+,10,28.2.21,Agadir-Ida -Ou-Tanane
+,3,28.2.21,Inezgane- Ait Melloul
+,1,28.2.21,Chtouka- Ait Baha
+,4,01.3.21,Agadir-Ida -Ou-Tanane
+,1,01.3.21,Tiznit
+?????,5,04.3.21,Tiznit
+?????? ??? ?????,1,04.3.21,Agadir-Ida -Ou-Tanane
+,4,07.3.21,Inezgane- Ait Melloul
+,3,07.3.21,Agadir-Ida -Ou-Tanane
+,3,07.3.21,Tiznit
+?????? ??? ?????,12 1,10.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,8,10.3.21,Inezgane- Ait Melloul
+????????,4,10.3.21,Taroudannt
+?????,0 1,10.3.21,Tiznit
+?????? ??? ????,9,11.3.21,Inezgane- Ait Melloul
+?????? ??? ?????,8,11.3.21,Agadir-Ida -Ou-Tanane
+????????,1,11.3.21,Taroudannt
+?????? ??? ????,1,11.3.21,Chtouka- Ait Baha
+?????? ??? ?????,7,12.3.21,Agadir-Ida -Ou-Tanane
+,8,13.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ?????,4,14.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,3,14.3.21,Inezgane- Ait Melloul
+,4,15.3.21,Agadir-Ida -Ou-Tanane
+,2,15.3.21,Chtouka- Ait Baha
+?????? ??? ?????,6,17.3.21,Agadir-Ida -Ou-Tanane
+,2,18.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ?????,4,20.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,4,20.3.21,Inezgane- Ait Melloul
+?????,4,20.3.21,Tiznit
+?????? ??? ?????,6,21.3.21,Agadir-Ida -Ou-Tanane
+?????,2,21.3.21,Tiznit
+????????,1,21.3.21,Taroudannt
+,4,23.3.21,Tiznit
+?????? ??? ????,2,24.3.21,Inezgane- Ait Melloul
+?????,7,24.3.21,Tiznit
+?????? ??? ?????,3,24.3.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,2,24.3.21,Chtouka- Ait Baha
+,6,25.3.21,Tiznit
+,5,25.3.21,Agadir-Ida -Ou-Tanane
+,5,31.3.21,Agadir-Ida -Ou-Tanane
+,4,31.3.21,Tata
+,3,31.3.21,Tiznit
+,2,31.3.21,Inezgane- Ait Melloul
+0,11,01.4.21,Agadir-Ida -Ou-Tanane
+0,11,01.4.21,Inezgane- Ait Melloul
+0,4,01.4.21,Chtouka- Ait Baha
+0,2,01.4.21,Taroudannt
+0,2,01.4.21,Tiznit
+,5,03.4.21,Chtouka- Ait Baha
+1,4,03.4.21,Agadir-Ida -Ou-Tanane
+,2,03.4.21,Tiznit
+,7,06.4.21,Tiznit
+?????? ??? ?????,10,08.4.21,Agadir-Ida -Ou-Tanane
+?????,3,08.4.21,Tiznit
+?????? ??? ????,1,08.4.21,Inezgane- Ait Melloul
+,12,09.4.21,Inezgane- Ait Melloul
+,7,09.4.21,Agadir-Ida -Ou-Tanane
+,1,09.4.21,Taroudannt
+,1,09.4.21,Chtouka- Ait Baha
+,1,09.4.21,Tiznit
+1,10,10.4.21,Inezgane- Ait Melloul
+,8,10.4.21,Agadir-Ida -Ou-Tanane
+,1,10.4.21,Taroudannt
+,1,10.4.21,Tiznit
+,2,12.4.21,Agadir-Ida -Ou-Tanane
+,1,12.4.21,Inezgane- Ait Melloul
+,1,12.4.21,Chtouka- Ait Baha
+?????? ??? ?????,13,14.4.21,Agadir-Ida -Ou-Tanane
+????????,6,14.4.21,Taroudannt
+?????? ??? ????,3,14.4.21,Inezgane- Ait Melloul
+?????? ??? ????,1,14.4.21,Chtouka- Ait Baha
+?????? ??? ?????,11,15.4.21,Agadir-Ida -Ou-Tanane
+?????? ??? ????,6,15.4.21,Inezgane- Ait Melloul
+?????? ??? ????,4,15.4.21,Chtouka- Ait Baha
+?????,4,15.4.21,Tiznit
+????????,1,15.4.21,Taroudannt
+,16,16.4.21,Agadir-Ida -Ou-Tanane
+,4,16.4.21,Inezgane- Ait Melloul
+,2,16.4.21,Taroudannt
+,1,16.4.21,Chtouka- Ait Baha
+,7,17.4.21,Agadir-Ida -Ou-Tanane
+,3,17.4.21,Chtouka- Ait Baha
+,2,17.4.21,Tiznit
+2,1,17.4.21,Inezgane- Ait Melloul
+,8,21.4.21,Inezgane- Ait Melloul
+,4,21.4.21,Agadir-Ida -Ou-Tanane
+,3,21.4.21,Tiznit
+,2,21.4.21,Taroudannt
+,7,22.4.21,Inezgane- Ait Melloul
+,5,22.4.21,Chtouka- Ait Baha
+,4,22.4.21,Agadir-Ida -Ou-Tanane
+,2,22.4.21,Taroudannt
+1,1,22.4.21,Tiznit
+,7,23.4.21,Agadir-Ida -Ou-Tanane
+,4,23.4.21,Inezgane- Ait Melloul
+,10,24.4.21,Agadir-Ida -Ou-Tanane
+,4,24.4.21,Inezgane- Ait Melloul
+1,3,24.4.21,Tiznit
+,9,28.4.21,Agadir-Ida -Ou-Tanane
+,9,28.4.21,Inezgane- Ait Melloul
+1,2,28.4.21,Taroudannt
+,1,28.4.21,Tiznit
+,16,29.4.21,Inezgane- Ait Melloul
+,3,29.4.21,Taroudannt
+,1,29.4.21,Agadir-Ida -Ou-Tanane
+,4,30.4.21,Taroudannt
+,3,30.4.21,Agadir-Ida -Ou-Tanane
+,1,30.4.21,Inezgane- Ait Melloul
+,7,01.5.21,Agadir-Ida -Ou-Tanane
+,3,01.5.21,Inezgane- Ait Melloul
+,1,01.5.21,Tiznit
+,10,04.5.21,Inezgane- Ait Melloul
+,4,04.5.21,Tiznit
+,2,04.5.21,Taroudannt
+,2,04.5.21,Agadir-Ida -Ou-Tanane
+,2,04.5.21,Chtouka- Ait Baha
+,16,05.5.21,Agadir-Ida -Ou-Tanane
+,1,05.5.21,Chtouka- Ait Baha
+,8,06.5.21,Agadir-Ida -Ou-Tanane
+,3,06.5.21,Inezgane- Ait Melloul
+,1,06.5.21,Tiznit
+,1,06.5.21,Chtouka- Ait Baha
+,14,08.5.21,Agadir-Ida -Ou-Tanane
+,5,08.5.21,Tiznit
+,4,08.5.21,Inezgane- Ait Melloul
+,13,18.5.21,Agadir-Ida -Ou-Tanane
+,3,18.5.21,Tiznit
+,1,18.5.21,Inezgane- Ait Melloul
+,14,19.5.21,Agadir-Ida -Ou-Tanane
+,6,19.5.21,Inezgane- Ait Melloul
+,5,19.5.21,Tiznit
+,2,19.5.21,Taroudannt
+,2,19.5.21,Chtouka- Ait Baha
+1,10,20.5.21,Agadir-Ida -Ou-Tanane
+,10,20.5.21,Inezgane- Ait Melloul
+,9,20.5.21,Tiznit
+,1,20.5.21,Taroudannt
+,1,20.5.21,Chtouka- Ait Baha
+1,25,21.5.21,Agadir-Ida -Ou-Tanane
+,1,21.5.21,Inezgane- Ait Melloul
+,1,21.5.21,Taroudannt
+,1,21.5.21,Tiznit
+,1,21.5.21,Chtouka- Ait Baha
+,20,22.5.21,Agadir-Ida -Ou-Tanane
+,1,22.5.21,Inezgane- Ait Melloul
+,2,25.5.21,Inezgane- Ait Melloul
+,1,25.5.21,Agadir-Ida -Ou-Tanane
+1,0,25.5.21,Tiznit
+,11,26.5.21,Inezgane- Ait Melloul
+,8,26.5.21,Agadir-Ida -Ou-Tanane
+,8,26.5.21,Chtouka- Ait Baha
+,2,26.5.21,Taroudannt
+,18,27.5.21,Agadir-Ida -Ou-Tanane
+,6,27.5.21,Inezgane- Ait Melloul
+,2,27.5.21,Chtouka- Ait Baha
+,13,28.5.21,Agadir-Ida -Ou-Tanane
+,6,28.5.21,Inezgane- Ait Melloul
+,15,29.5.21,Agadir-Ida -Ou-Tanane
+,7,29.5.21,Inezgane- Ait Melloul
+,3,29.5.21,Taroudannt
+,3,29.5.21,Tiznit
+,2,29.5.21,Chtouka- Ait Baha
+,6,01.6.21,Agadir-Ida -Ou-Tanane
+,6,01.6.21,Inezgane- Ait Melloul
+,1,01.6.21,Chtouka- Ait Baha
+2,17,02.6.21,Agadir-Ida -Ou-Tanane
+,13,02.6.21,Inezgane- Ait Melloul
+,5,02.6.21,Taroudannt
+,1,02.6.21,Chtouka- Ait Baha
+,9,06.6.21,Agadir-Ida -Ou-Tanane
+,3,06.6.21,Inezgane- Ait Melloul
+,23,09.6.21,Agadir-Ida -Ou-Tanane
+,6,09.6.21,Inezgane- Ait Melloul
+,2,09.6.21,Tiznit
+,1,09.6.21,Chtouka- Ait Baha
+,12,10.6.21,Inezgane- Ait Melloul
+,10,10.6.21,Agadir-Ida -Ou-Tanane
+,1,10.6.21,Taroudannt
+,1,10.6.21,Tiznit
+,1,10.6.21,Chtouka- Ait Baha
+,1,10.6.21,Tata
+1,27,12.6.21,Agadir-Ida -Ou-Tanane
+,22,12.6.21,Inezgane- Ait Melloul
+,1,12.6.21,Tiznit
+,1,12.6.21,Chtouka- Ait Baha
+,15,13.6.21,Agadir-Ida -Ou-Tanane
+,6,13.6.21,Inezgane- Ait Melloul
+,3,13.6.21,Tiznit
+,1,13.6.21,Taroudannt
+,19,17.6.21,Inezgane- Ait Melloul
+,17,17.6.21,Agadir-Ida -Ou-Tanane
+,4,17.6.21,Tiznit
+,15,20.6.21,Agadir-Ida -Ou-Tanane
+,10,20.6.21,Inezgane- Ait Melloul
+,1,20.6.21,Chtouka- Ait Baha
+1,7,22.6.21,Inezgane- Ait Melloul
+,5,22.6.21,Tiznit
+,3,22.6.21,Agadir-Ida -Ou-Tanane
+,2,22.6.21,Chtouka- Ait Baha
+,37,23.6.21,Agadir-Ida -Ou-Tanane
+1,4,23.6.21,Taroudannt
+1,3,23.6.21,Inezgane- Ait Melloul
+,2,23.6.21,Chtouka- Ait Baha
+,1,23.6.21,Tiznit
+,1,23.6.21,Tata
+,18,26.6.21,Agadir-Ida -Ou-Tanane
+,12,26.6.21,Inezgane- Ait Melloul
+,6,26.6.21,Chtouka- Ait Baha
+,2,26.6.21,Taroudannt
+,2,26.6.21,Tiznit
+,26,27.6.21,Agadir-Ida -Ou-Tanane
+,15,27.6.21,Inezgane- Ait Melloul
+,1,27.6.21,Taroudannt
+,1,27.6.21,Chtouka- Ait Baha
+,15,28.6.21,Agadir-Ida -Ou-Tanane
+,3,28.6.21,Chtouka- Ait Baha
+,2,28.6.21,Inezgane- Ait Melloul
+,2,28.6.21,Tiznit
+1,19,29.6.21,Inezgane- Ait Melloul
+2,10,29.6.21,Agadir-Ida -Ou-Tanane
+,8,29.6.21,Chtouka- Ait Baha
+,3,29.6.21,Tiznit
+,1,29.6.21,Taroudannt
+,31,30.6.21,Agadir-Ida -Ou-Tanane
+,26,30.6.21,Inezgane- Ait Melloul
+,4,30.6.21,Tiznit
+,2,30.6.21,Chtouka- Ait Baha
