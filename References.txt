@@ -1,2 +1,0 @@
-Analysis and Prediction of COVID-19 using Regression Models and Time Series Forecasting , PMID : 20565476
-Time series predicting of COVID-19 based on deep learning , PMID: 34690432
